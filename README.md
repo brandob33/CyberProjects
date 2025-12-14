@@ -1,6 +1,6 @@
 # CyberProjects 🛡️
 
-A collection of cybersecurity tools and scripts for educational purposes. 
+A collection of cybersecurity tools and scripts for educational purposes. Developed by a CS student with intention to learn and dive deeper into cybersecurity projects.
 
 ## Projects
 
